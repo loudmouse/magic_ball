@@ -1,3 +1,5 @@
+# Tutorial Source: https://semaphoreci.com/community/tutorials/getting-started-with-minitest
+
 require 'minitest/autorun'
 require_relative "magic_ball"
 
